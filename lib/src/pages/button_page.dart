@@ -71,7 +71,7 @@ class ButtonPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             Text(
-              'Classify Transaction',
+              'Esto es una mamada',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 30.0,
@@ -82,7 +82,7 @@ class ButtonPage extends StatelessWidget {
               height: 10.0,
             ),
             Text(
-              'Classify this transaction into a particular category',
+              'Esto es una mamada versión subtitle',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 18.0,
